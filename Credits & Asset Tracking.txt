@@ -31,12 +31,29 @@ Hammer Hit - https://freesound.org/people/Latawoo/sounds/543692/
 Big Arm - https://freesound.org/people/wlabarron/sounds/509112/
 
 
-Earc Sync - https://freesound.org/people/joedeshon/sounds/79945/
+Earc Sync - https://freesound.org/people/kwahmah_02/sounds/268805/
 Earc Remote - https://freesound.org/people/nlux/sounds/623405/
-
+Earc Remote Fail - https://freesound.org/people/nlux/sounds/623091/
 
 
 
 
 Stopping Sound - https://freesound.org/people/DN_KP/sounds/117939/
+
+
+Panel Sliding Sound - https://freesound.org/people/Zoey.holt/sounds/538225/
+Door Sliding Sound (source) - https://freesound.org/people/musicandsoundyay/sounds/452755/
+
+
+
+Bypass Install - https://freesound.org/people/DrinkingWindGames/sounds/678873/
+TODO: Valve Install
+TODO: Battery Install
+
+
+Powerbank Pickup - https://freesound.org/people/DeltaCode/sounds/678385/
+Battery Pickup - https://freesound.org/people/cabled_mess/sounds/350871/
+Bypass Pickup - https://freesound.org/people/MATRIXXX_/sounds/703886/
+Valve Pickup - https://freesound.org/people/wildweasel/sounds/39026/
+
 
